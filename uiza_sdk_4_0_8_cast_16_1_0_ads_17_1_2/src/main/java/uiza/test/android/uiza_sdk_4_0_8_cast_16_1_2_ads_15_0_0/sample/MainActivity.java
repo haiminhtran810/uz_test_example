@@ -1,11 +1,11 @@
-package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2.sample;
+package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0.sample;
 
 import android.app.AlertDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2.R;
-import uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2.app.LSApplication;
+import uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0.R;
+import uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0.app.LSApplication;
 import vn.uiza.core.common.Constants;
 
 public class MainActivity extends AppCompatActivity {

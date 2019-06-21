@@ -1,4 +1,4 @@
-package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2.sample;
+package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0.sample;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 import com.daimajia.androidanimations.library.Techniques;
-import uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2.R;
+import uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0.R;
 import uizacoresdk.interfaces.UZCallback;
 import uizacoresdk.interfaces.UZItemClick;
 import uizacoresdk.util.UZUtil;

@@ -1,3 +1,3 @@
 include ':uiza_sdk_player_4_0_8_no_cast_no_ads', ':uiza_sdk_player_4_0_8_cast_16_1_2',
-    ':uiza_sdk_player_4_0_8_ads_17_1_3', ':uiza_sdk_4_0_8_cast_16_1_0_ads_15_0_0',
-    ':uiza_sdk_4_0_8_cast_16_1_2_ads_17_1_3', ':uiza_sdk_player_3_2_5', ':uiza_sdk_player_3_0_3', ':uiza_sdk_player_2_7_3', ':uiza_sdk_player_2_4_0', ':uiza_sdk_player_2_2_7', ':uiza_sdk_player_1_4_2', ':uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2'
+        ':uiza_sdk_player_4_0_8_ads_17_1_3', ':uiza_sdk_4_0_8_cast_16_1_0_ads_15_0_0',
+        ':uiza_sdk_4_0_8_cast_16_1_2_ads_17_1_3', ':uiza_sdk_player_3_2_5', ':uiza_sdk_player_3_0_3', ':uiza_sdk_player_2_7_3', ':uiza_sdk_player_2_4_0', ':uiza_sdk_player_2_2_7', ':uiza_sdk_player_1_4_2', ':uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2', ':uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0'

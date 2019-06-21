@@ -1,4 +1,4 @@
-package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2;
+package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2", appContext.getPackageName());
+        assertEquals("uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_0_ads_17_1_2.app;
+package uiza.test.android.uiza_sdk_4_0_8_cast_16_1_2_ads_15_0_0.app;
 
 import android.app.Application;
 import uizacoresdk.util.UZUtil;
